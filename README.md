@@ -85,6 +85,6 @@ By default protocols don't work with sci values, but can be swizzled to allow fo
 
 ## License
 
-Copyright © 2021 Adrian Smigh
+Copyright © 2021 Adrian Smith
 
 Distributed under the Eclipse Public License version 1.0.
