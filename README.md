@@ -2,6 +2,16 @@
 
 Simplify exposing namespaces to sci contexts.
 
+## Deps
+
+Leiningen/Boot
+
+`[com.phronemophobic/scify "1.0"]`
+
+Clojure CLI/deps.edn
+
+`com.phronemophobic/scify {:mvn/version "1.0"}`
+
 ## Usage
 
 Add clojure.pprint and clojure.zip namespaces to sci context
